@@ -1,0 +1,51 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo ""Teksts"
+    4  echo "teksts"
+    5  echo "Cits teksts"
+    6  man echo
+    7  echo -e "teksts/nCits teksts"
+    8  echo -e Teksts/nCits teksts"
+echo -e Teksts/nCits teksts"
+    9  echo "Teksts">failsl.txt
+   10  ls
+   11  cat failsl.txt
+   12  ls -l
+   13  cat failsl.txt
+   14  echo -e Teksts/nCits teksts"
+echo -e Teksts/nCits teksts"
+   15  echo "Cits teksts" > failsl.txt
+   16  cat failsl.txt
+   17  echo "Cits teksts" >> fails.txt
+   18  cat failsl.txt
+   19  ls -l
+   20  chmod 400 failsl.txt
+   21  ls - l failsl.txt
+   22  chmod 400 failsl.txt
+   23  ls -l failsl.txt
+   24  chmood 700 failsl.txt
+   25  ls -l
+   26  echo "Teksts"..>fails1.txt
+   27  echo "Teksts"..>/fails1.txt
+   28  ls
+   29  nano fails1.txt
+   30  ls -l
+   31  cp fails21.txt 
+   32  cp fails 21.txt fails3.txt
+   33  mv *.txt Music/
+   34  ls -l
+   35  cd Music
+   36  ls
+   37  cd ..
+   38  mv fails1.txt fails31.txt
+   39  pwd
+   40  cd Music
+   41  mv fails21.txt fails31.txt
+   42  cd..
+   43  pwd
+   44  ..
+   45  ../
+   46  rm fails21.txt
+   47  history
+   48  cd
+   49  history>history_20181209
