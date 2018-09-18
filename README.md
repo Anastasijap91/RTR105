@@ -13,3 +13,17 @@ CTRL + L - ekrana attīrīšana
  pwd - powered directory  
  ls - kadi objekti ir pieejami  
  ls -l 
+ cal - izsauc kalendaru  
+mkdir manamape - izveidort mapi  
+rmdir manamape - nodzēst mapi  
+cd Manamape - ieet mapē  
+echo "teksts" - veidojam failu ar tekstu  
+mkdir manaapaksmape - izveidot apaksmapi  
+cd .. -iziet no mapes  
+echo "Teksts" > fails1.txt - izveidot teksta failu 
+echo "Tekst" ..>/fails1.txt - pievieno jauno tekstu
+cat fails1.txt - radas teksts
+chmod 400 fails1.txt - mainit tiesibas  
+chmod 700 fails1.txt -  
+nano fails1.txt - var rakstīt tekstu failaa  
+cd Music - ieet mape Music  
