@@ -21,3 +21,10 @@ ls -a - . .. - norae uz tekoso vietu
 cal 2017 - kalendars (iepr.gada)  
 vi pirmais fails - faiļu veidošana (vi + nosaukums)  
 echo "Teksts" > 
+$PATH - sistēmas vides maiņas
+chmod 764 - mainīt tiesības
+git clone https://github.com/anastasijap91 - repozitoriju klonešana
+nano mans_skripts.sh - redaktet skriptu
+./ vai ~/ - saknes apgabals
+cat mans_skripts.sh - paradit failes saturu
+

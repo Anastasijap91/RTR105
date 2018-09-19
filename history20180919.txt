@@ -1,0 +1,58 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "mkdir Mape" > mans_skipts.sh
+    4  ls
+    5  cat mans_skripts.sh
+    6  nano mans_skripts.sh
+    7  ls -l
+    8  echo $PATH
+    9  pwd
+   10  PATH=$PATH:/home/user
+   11  ls -l
+   12  chmod 764 Mans_skripts.sh
+   13  chmod 764 mans_Skripts.sh
+   14  chmod 764 mans_skripts.sh
+   15  ls -l
+   16  msns_skripts.sh
+   17  mans_skripts.sh
+   18  ls -l
+   19  cd Mape/
+   20  ls -l
+   21  cd ..
+   22  pwd
+   23  cat mans_skripts.sh
+   24  cat /bin/ls
+   25  62;cls
+   26  cat/bin/ls
+   27  ls
+   28  nano mans_skripts.sh
+   29  ls
+   30  pwd
+   31  mans_skripts.sh
+   32  pwd
+   33  /home/user/mans_skripts.sh
+   34  ls
+   35  ./mans_skripts.sh
+   36  ~/mans_skripts.sh
+   37  git clone https://github.com/181REB371
+   38  git clone https://github.com/anastasijap91
+   39  firefox
+   40  ls -l
+   41  git clone https://github.com/anastasijap91
+   42  git clone https://github.com/anastasijap91/RTR105
+   43  ls
+   44  ferefox
+   45  firefox
+   46  pwd
+   47  firefox &
+   48  ls -l
+   49  cd RTR105
+   50  ls -l
+   51  nano README.md
+   52  ls -l
+   53  nano git-upload
+   54  cat git-upload
+   55  ls -l
+   56  chmod 764 git-upload
+   57  ls -l
+   58  history > history20180919.txt
