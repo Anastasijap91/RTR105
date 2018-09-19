@@ -56,3 +56,19 @@
    56  chmod 764 git-upload
    57  ls -l
    58  history > history20180919.txt
+   59  ls -l
+   60  ./
+   61  ./git-upload 20180919_09_50
+   62  nano git-upload
+   63  ./git-upload 20180919_09_50
+   64  nano git-upload
+   65  ./git-upload 20180919_09_50
+   66  cat mans_skrpts.sh
+   67  cat mans_skripts.sh
+   68  python
+   69  ipython
+   70  idle
+   71  idle&
+   72  pwd
+   73  ls -l
+   74  history > history20180919.txt
